@@ -1,4 +1,4 @@
-# UX Portfolio
+# plain and simple UI
 
 
 ## UX Team Project
