@@ -6,3 +6,5 @@
 
 ## UX Journal
 
+/journals/j01
+/journals/j02
