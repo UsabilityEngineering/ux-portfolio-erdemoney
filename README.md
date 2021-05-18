@@ -2,7 +2,7 @@
 
 
 ## UX Team Project
-[Whirlpool](https://github.com/UsabilityEngineering/Whirlpool)
+[Whirlpool](https://usabilityengineering.github.io/Whirlpool/)
 
 ## UX Journal
 
